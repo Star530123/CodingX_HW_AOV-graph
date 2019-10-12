@@ -1,9 +1,9 @@
-package course;
+package Course;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class course {
+public class Course {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
